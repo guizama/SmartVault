@@ -1,0 +1,16 @@
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\bin\Debug\net8.0\SmartVault.Infrastructure.deps.json
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\bin\Debug\net8.0\SmartVault.Infrastructure.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\bin\Debug\net8.0\SmartVault.Infrastructure.pdb
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\bin\Debug\net8.0\SmartVault.Application.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\bin\Debug\net8.0\SmartVault.Application.pdb
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.AssemblyInfo.cs
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.sourcelink.json
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVau.9749CD8E.Up2Date
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\refint\SmartVault.Infrastructure.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\SmartVault.Infrastructure.pdb
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Infrastructure\obj\Debug\net8.0\ref\SmartVault.Infrastructure.dll

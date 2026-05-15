@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartVault.Shared/1.0.0": {
+        "runtime": {
+          "SmartVault.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartVault.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

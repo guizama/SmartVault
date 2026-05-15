@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="..\BusinessObjectSchema\Account.xml" />
+    <AdditionalFiles Include="..\BusinessObjectSchema\Document.xml" />
+    <AdditionalFiles Include="..\BusinessObjectSchema\User.xml" />
+	<AdditionalFiles Include="..\BusinessObjectSchema\OAuthIntegration.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartVault.Application\SmartVault.Application.csproj" />
+    <ProjectReference Include="..\SmartVault.CodeGeneration\SmartVault.CodeGeneration.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+    <ProjectReference Include="..\SmartVault.Infrastructure\SmartVault.Infrastructure.csproj" />
+    <ProjectReference Include="..\SmartVault.Shared\SmartVault.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

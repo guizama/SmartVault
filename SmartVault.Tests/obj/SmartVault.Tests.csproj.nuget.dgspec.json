@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Tests\\SmartVault.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\SmartVault.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\SmartVault.Application.csproj",
+        "projectName": "SmartVault.Application",
+        "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\SmartVault.Application.csproj",
+        "packagesPath": "C:\\Users\\42912412838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42912412838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.policiamilitar.sp.gov.br/CIAF/a3e4e636-046b-4271-bda0-dc923677d8e2/_packaging/gwopmespfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Infrastructure\\SmartVault.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Infrastructure\\SmartVault.Infrastructure.csproj",
+        "projectName": "SmartVault.Infrastructure",
+        "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Infrastructure\\SmartVault.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\42912412838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42912412838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.policiamilitar.sp.gov.br/CIAF/a3e4e636-046b-4271-bda0-dc923677d8e2/_packaging/gwopmespfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\SmartVault.Application.csproj": {
+                "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\SmartVault.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Shared\\SmartVault.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Shared\\SmartVault.Shared.csproj",
+        "projectName": "SmartVault.Shared",
+        "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Shared\\SmartVault.Shared.csproj",
+        "packagesPath": "C:\\Users\\42912412838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42912412838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.policiamilitar.sp.gov.br/CIAF/a3e4e636-046b-4271-bda0-dc923677d8e2/_packaging/gwopmespfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Tests\\SmartVault.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Tests\\SmartVault.Tests.csproj",
+        "projectName": "SmartVault.Tests",
+        "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Tests\\SmartVault.Tests.csproj",
+        "packagesPath": "C:\\Users\\42912412838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42912412838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.policiamilitar.sp.gov.br/CIAF/a3e4e636-046b-4271-bda0-dc923677d8e2/_packaging/gwopmespfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\SmartVault.Application.csproj": {
+                "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Application\\SmartVault.Application.csproj"
+              },
+              "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Infrastructure\\SmartVault.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Infrastructure\\SmartVault.Infrastructure.csproj"
+              },
+              "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Shared\\SmartVault.Shared.csproj": {
+                "projectPath": "C:\\Users\\42912412838\\Desktop\\stuff\\prj\\guilhermemartinelli-sv-challenge\\HardChallenge\\SmartVault.Shared\\SmartVault.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.9.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

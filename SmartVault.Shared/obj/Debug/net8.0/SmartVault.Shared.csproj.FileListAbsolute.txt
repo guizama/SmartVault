@@ -1,0 +1,12 @@
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\bin\Debug\net8.0\SmartVault.Shared.deps.json
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\bin\Debug\net8.0\SmartVault.Shared.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\bin\Debug\net8.0\SmartVault.Shared.pdb
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\SmartVault.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\SmartVault.Shared.AssemblyInfoInputs.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\SmartVault.Shared.AssemblyInfo.cs
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\SmartVault.Shared.csproj.CoreCompileInputs.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\SmartVault.Shared.sourcelink.json
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\SmartVault.Shared.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\refint\SmartVault.Shared.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\SmartVault.Shared.pdb
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.Shared\obj\Debug\net8.0\ref\SmartVault.Shared.dll

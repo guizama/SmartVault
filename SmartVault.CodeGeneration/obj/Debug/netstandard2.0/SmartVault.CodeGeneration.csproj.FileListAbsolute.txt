@@ -1,0 +1,11 @@
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.deps.json
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.AssemblyReference.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfoInputs.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfo.cs
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.sourcelink.json
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\42912412838\Desktop\stuff\prj\guilhermemartinelli-sv-challenge\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
